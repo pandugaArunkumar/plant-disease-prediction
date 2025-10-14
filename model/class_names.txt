@@ -1,0 +1,11 @@
+Apple___Apple_scab
+Apple___healthy
+Corn_(maize)___Common_rust_
+Corn_(maize)___healthy
+Grape___Black_rot
+Grape___healthy
+Not a Leaf !! please try again !!
+Strawberry___Leaf_scorch
+Strawberry___healthy
+Tomato___Early_blight
+Tomato___healthy
