@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Model files
+*.h5
+*.hdf5
+*.keras
+*.pkl
+
+# Jupyter & Colab
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Flask uploads
+static/uploads/
